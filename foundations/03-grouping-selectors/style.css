@@ -1,0 +1,17 @@
+
+#firstbutton{
+    background-color: rgb(17, 17, 17);
+    color: hsl(0, 0%, 99%);
+    font-weight: bold;
+}
+
+
+#secondbutton{
+    background-color: hsl(58, 96%, 50%);
+    
+}
+
+.bothbutton{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
